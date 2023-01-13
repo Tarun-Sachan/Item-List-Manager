@@ -10,7 +10,7 @@ Introduction
 
 Future Direction
 
-    Right now, the Item List Manager does not use lock storage. However, if we could integrate local storage item list will not deleted when we reload the page.
+    Right now, the Item List Manager does not use local storage. However, if we could integrate local storage item list will not deleted when we reload the page.
     Will also add feature to add title and description.
     
 
