@@ -1,6 +1,7 @@
 # Item-List-Manager
 
 Link to project- https://tarun-sachan.github.io/Item-List-Manager/
+Link to upgraded version - https://tarun-sachan.github.io/Keep-Notes/
 
 Introduction
 
