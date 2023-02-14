@@ -3,7 +3,8 @@
 Link to project- https://tarun-sachan.github.io/Item-List-Manager/
 Link to upgraded version - https://tarun-sachan.github.io/Keep-Notes/
 
-![Screenshot 2023-02-14 at 21-40-16 Notes](https://user-images.githubusercontent.com/117214735/218793594-9a09f602-acb5-4872-a59d-3084c5d1fd9b.png)
+
+![Screenshot 2023-02-14 at 21-41-52 Item List Manager](https://user-images.githubusercontent.com/117214735/218793937-730bedc5-388d-422d-8dea-e92b8e28a371.png)
 
 
 ## Introduction
